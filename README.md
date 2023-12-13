@@ -15,7 +15,7 @@
     - `npm run cy:run:web` OR `cypress run --env device=web`
 
 - If you installed Cypress zip:
-  - import **`cypress-example`** folder and you are good to go
+  - import **`bionic-cypress`** folder and you are good to go
 
 ## :bulb: Information
 
